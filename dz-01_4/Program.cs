@@ -16,3 +16,13 @@ while (count <= num)
     }
     count = count + 1;
 }
+
+// КОММЕНТ от преподавателя:
+// лучше так:
+// int count = 2;
+
+// while (count <= num)
+// {
+//     System.Console.WriteLine($"{num} -> {count}");
+//     count = count + 2;
+// }
